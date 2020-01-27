@@ -1,0 +1,16 @@
+{
+  "name": "adis",
+  "version": "0.0.0",
+  "description": "Self-hosted decentralized chat application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "neko-is-kitty",
+  "license": "MIT",
+  "devDependencies": {
+    "dat-swarm-defaults": "^1.0.2",
+    "discovery-swarm": "^6.1.0",
+    "electron": "^7.1.10"
+  }
+}
